@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Devlopment
 - 🌱 I’m currently learning Java 
 
-- 📫 Reach me on insta-- @abhimishra114 , LinkedIn -- https://www.linkedin.com/in/abhisekh-mishra-168123217
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/abhisekh-mishra-168123217
 
 <!---
 AbhiMIshra114/AbhiMIshra114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
